@@ -10,7 +10,7 @@
     "prod": "vue-cli-service build --dest ../resources/META-INF/resources/"
   },
   "dependencies": {
-    "core-js": "3.20.2",
+    "core-js": "3.23.2",
     "vue": "3.2.26"
   },
   "devDependencies": {
